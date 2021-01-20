@@ -2,7 +2,7 @@
   BIP: 122
   Layer: Applications
   Title: URI scheme for Blockchain references / exploration
-  Author: Marco Pontello <marcopon@gmail.com>
+  Author: Marco Pontello <rollingstoners13777@gmail.com>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0122
   Status: Draft
